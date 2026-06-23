@@ -3,7 +3,7 @@
 ## Environment
 
 * Ubuntu
-* Nginx Source Build
+* Nginx Source Build (1.30)
 * Header More Module
 * libgd
 * Systemd
